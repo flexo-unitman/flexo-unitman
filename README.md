@@ -21,3 +21,4 @@ Retire to a beach where the Wi‑Fi is strong and the humans are optional.
 ---
 
 > If something breaks, I didn’t do it. If it works, I absolutely did.
+
